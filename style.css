@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(95, 130, 153);
+    font-family: 'Roboto', sans-serif;
+}
+.signup-box{
+    width:360px;
+    height:620px;
+    margin:auto;
+    background-color:white;
+    border-radius: 3px;    
+}
+
+h1{
+    text-align:center;
+    padding-top: 15px;
+}
+h4{
+    text-align: center;
+}
+form{
+    width:300px;
+    margin-left: 20px;
+   
+    
+}
+form label{
+    display: flex;
+    margin-top: 15px;
+    font-size: 18px;
+}
+p{
+    margin-left: 20px;
+}
+m{
+    background-color: darkmagenta;
+}
